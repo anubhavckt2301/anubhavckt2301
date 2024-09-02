@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anubhav Rai
-- 👀 I’m interested in Digital Electronics.
+- 👀 I’m interested in Digital Design.
 - 🌱 I’m currently learning Verilog and its simulations.
 - 💞️ I’m looking to collaborate on projects related to digital design.
 - 😄 Pronouns: He/Him
